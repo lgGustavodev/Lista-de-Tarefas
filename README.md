@@ -4,7 +4,8 @@ Este é um projeto de uma Lista de Tarefas simples e funcional. Ele permite que 
 
 ## URL do Projeto
 
-Você pode visualizar o projeto online [aqui](https://lggustavodev.github.io/Lista-de-Tarefas/).
+Você pode visualizar o projeto online <a href="https://lggustavodev.github.io/Lista-de-Tarefas/" target="_blank">aqui</a>.
+
 
 ## Funcionalidades
 
